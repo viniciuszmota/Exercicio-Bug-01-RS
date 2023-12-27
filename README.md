@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Exercício
 
-Foi recebido um código contendo diversos bugs, e o ecercício era reoganizar tudo para que ficasse como descrito no projeto Figma.
+Foi recebido um código contendo diversos bugs, e o exercício era reoganizar tudo para que ficasse como descrito no projeto Figma.
 
 - [Acesse o projeto corrigido, online](https://viniciuszmota.github.io/Exercicio-Bug-01-RS/)
 
